@@ -1,0 +1,46 @@
+H:\0. M256\Visual Basic\Projects in progress\Final Battle Game\Final Battle Game\bin\Debug\Final Battle Game.exe.config
+H:\0. M256\Visual Basic\Projects in progress\Final Battle Game\Final Battle Game\bin\Debug\Final Battle Game.exe
+H:\0. M256\Visual Basic\Projects in progress\Final Battle Game\Final Battle Game\bin\Debug\Final Battle Game.pdb
+H:\0. M256\Visual Basic\Projects in progress\Final Battle Game\Final Battle Game\bin\Debug\Final Battle Game.xml
+H:\0. M256\Visual Basic\Projects in progress\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.vbprojAssemblyReference.cache
+H:\0. M256\Visual Basic\Projects in progress\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Form1.resources
+H:\0. M256\Visual Basic\Projects in progress\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Form2.resources
+H:\0. M256\Visual Basic\Projects in progress\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Resources.resources
+H:\0. M256\Visual Basic\Projects in progress\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.vbproj.GenerateResource.cache
+H:\0. M256\Visual Basic\Projects in progress\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.vbproj.CoreCompileInputs.cache
+H:\0. M256\Visual Basic\Projects in progress\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.exe
+H:\0. M256\Visual Basic\Projects in progress\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.xml
+H:\0. M256\Visual Basic\Projects in progress\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.pdb
+H:\0. M256\Visual Basic\Projects in progress\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Battle.resources
+H:\0. M256\Visual Basic\Projects in progress\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Form3.resources
+E:\Final Battle Game\Final Battle Game\bin\Debug\Final Battle Game.exe.config
+E:\Final Battle Game\Final Battle Game\bin\Debug\Final Battle Game.exe
+E:\Final Battle Game\Final Battle Game\bin\Debug\Final Battle Game.pdb
+E:\Final Battle Game\Final Battle Game\bin\Debug\Final Battle Game.xml
+E:\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.vbproj.AssemblyReference.cache
+E:\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Battle.resources
+E:\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Form1.resources
+E:\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Form2.resources
+E:\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Form3.resources
+E:\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Resources.resources
+E:\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.vbproj.GenerateResource.cache
+E:\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.vbproj.CoreCompileInputs.cache
+E:\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.exe
+E:\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.xml
+E:\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.pdb
+D:\Final Battle Game\Final Battle Game\bin\Debug\Final Battle Game.exe.config
+D:\Final Battle Game\Final Battle Game\bin\Debug\Final Battle Game.exe
+D:\Final Battle Game\Final Battle Game\bin\Debug\Final Battle Game.pdb
+D:\Final Battle Game\Final Battle Game\bin\Debug\Final Battle Game.xml
+D:\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.vbprojAssemblyReference.cache
+D:\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Battle.resources
+D:\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Form1.resources
+D:\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Form2.resources
+D:\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Form3.resources
+D:\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Resources.resources
+D:\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.vbproj.GenerateResource.cache
+D:\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.vbproj.CoreCompileInputs.cache
+D:\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.exe
+D:\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.xml
+D:\Final Battle Game\Final Battle Game\obj\Debug\Final Battle Game.pdb
+D:\Final Battle Game\Final Battle Game\obj\Debug\Final_Battle_Game.Shop.resources
